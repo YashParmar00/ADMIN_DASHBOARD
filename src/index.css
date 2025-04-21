@@ -1,7 +1,12 @@
+/* styles.css */
+
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
 
-@import "tailwindcss";
+/* Tailwind CSS Directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* Apply Global Styles */
 body {
@@ -9,6 +14,5 @@ body {
   padding: 0;
   font-family: "Open Sans", sans-serif;  /* Apply Open Sans font globally */
 }
-
 
 /* Optional: You can extend Tailwind with custom utilities */
