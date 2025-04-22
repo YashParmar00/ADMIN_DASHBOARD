@@ -42,7 +42,7 @@ export default {
         590: '590px', // Custom min-height value
       },
       backgroundImage: {
-        'hero-pattern': "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')", // Custom background image
+        'hero-pattern': "url('./src/data/welcome-bg.svg')", // Custom background image
       },
     },
   },

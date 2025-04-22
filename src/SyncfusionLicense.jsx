@@ -1,3 +1,3 @@
 // import { registerLicense } from '@syncfusion/ej2-base';
 
-// registerLicense('Ngo9BigBOggjHTQxAR8/V1NNaF5cXmBCekx0TXxbf1x1ZFNMZFlbR3BPIiBoS35Rc0VnW35feHBQRWZdUURwVEBU');
+// registerLicense('Ngo9BigBOggjHTQxAR8/V1NMaF1cXGFCf1FpRmJGdld5fUVHYVZUTXxaS00DNHVRdkdmWXtccnVVR2NeWEd0X0ZWYUE=');
