@@ -1,5 +1,5 @@
 import { registerLicense } from '@syncfusion/ej2-base';
-registerLicense('ORg4AjUWIQA/Gnt2XFhhQlJHfVpdX2JWfFN0QHNfdVpyflRGcDwsT3RfQFhjTXxRd0RiUXpbdXxTQWteWA==');
+registerLicense('ORg4AjUWIQA/Gnt2XFhhQlJHfV5AQmBIYVp/TGpJfl96cVxMZVVBJAtUQF1hTH5XdEZjUX1fc3NURWdUWkZ/');
 
 import React from "react";
 import ReactDOM from 'react-dom/client'; 

@@ -42,7 +42,7 @@ export default {
         590: '590px', // Custom min-height value
       },
       backgroundImage: {
-        'hero-pattern': "url('./src/data/welcome-bg.svg')", // Custom background image
+        'hero-pattern': "url('/data/welcome-bg.svg')", // Custom background image
       },
     },
   },
